@@ -1,2 +1,2 @@
 1.0.0.11
-https://www.dropbox.com/s/mnznajgi190y3dv/Zimmervermietung-Hedy.exe?dl=0
+https://github.com/mex0340/Gasthof_Post/raw/refs/heads/main/Zimmervermietung_Gasthof_Post.exe
