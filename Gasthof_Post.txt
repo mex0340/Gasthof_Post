@@ -1,2 +1,2 @@
-1.0.31
+1.0.0
 https://github.com/mex0340/Gasthof_Post/raw/refs/heads/main/Reservierung_Gasthof_Post_Stanzach.exe
