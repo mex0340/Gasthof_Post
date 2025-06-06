@@ -1,2 +1,2 @@
 1.0.0.2
-https://github.com/mex0340/Gasthof_Post/raw/refs/heads/main/Zimmervermietung_Gasthof_Post.exe
+https://github.com/mex0340/Gasthof_Post/raw/refs/heads/main/Reservierung_Gasthof_Post_Stanzach.exe
